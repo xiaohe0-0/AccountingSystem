@@ -1,0 +1,30 @@
+F:\My Programs\Graduation Design\AccountingSystem\BLL\bin\Debug\BLL.dll
+F:\My Programs\Graduation Design\AccountingSystem\BLL\bin\Debug\BLL.pdb
+F:\My Programs\Graduation Design\AccountingSystem\BLL\bin\Debug\DAL.dll
+F:\My Programs\Graduation Design\AccountingSystem\BLL\bin\Debug\DAL.pdb
+F:\My Programs\Graduation Design\AccountingSystem\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\My Programs\Graduation Design\AccountingSystem\BLL\obj\Debug\BLL.dll
+F:\My Programs\Graduation Design\AccountingSystem\BLL\obj\Debug\BLL.pdb
+F:\My Programs\Graduation Design\AccountingSystem\BLL\bin\Debug\AccountSys.mdf
+F:\My Programs\Graduation Design\AccountingSystem\BLL\bin\Debug\AccountSys_log.ldf
+F:\My Programs\Graduation Design\AccountingSystem\BLL\bin\Debug\BLL.dll.config
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\AccountSys.mdf
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\AccountSys_log.ldf
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\BLL.dll.config
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\BLL.dll
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\BLL.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\DAL.dll
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\DAL.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\obj\Debug\BLL.dll
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\obj\Debug\BLL.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\AccountSys.mdf
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\AccountSys_log.ldf
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\BLL.dll.config
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\BLL.dll
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\BLL.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\DAL.dll
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\bin\Debug\DAL.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\obj\Debug\BLL.dll
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\BLL\obj\Debug\BLL.pdb

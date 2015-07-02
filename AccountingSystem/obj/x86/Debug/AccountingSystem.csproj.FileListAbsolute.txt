@@ -1,0 +1,118 @@
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.pdb
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\BLL.dll
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\DAL.dll
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\BLL.pdb
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\DAL.pdb
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.csproj.ResolveComReference.cache
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_AddAccount.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BalanceAlertSetting.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BillCheck.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetAdd.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetManage.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetUP.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_Chart.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_Class.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_UPAccount.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Control_AccInOut.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Control_AccOutClass.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Login.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.MainForm.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Add.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Index.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Show.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Update.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Tools_InOut.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.Tools_Interest.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.User_UPName.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.User_UPPsd.resources
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.exe
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\obj\x86\Debug\AccountingSystem.pdb
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\AccountSys.mdf
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\AccountSys_log.ldf
+F:\My Programs\Graduation Design\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+F:\My Programs\Graduation Design\AccountingSystem - 副本\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+F:\My Programs\Graduation Design\AccountingSystem - 副本\AccountingSystem\obj\x86\Debug\AccountingSystem.csproj.ResolveComReference.cache
+F:\My Programs\Graduation Design\AccountingSystem - 副本\AccountingSystem\obj\x86\Debug\AccountingSystem.exe
+F:\My Programs\Graduation Design\AccountingSystem - 副本\AccountingSystem\obj\x86\Debug\AccountingSystem.pdb
+F:\My Programs\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+F:\My Programs\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.csproj.ResolveComReference.cache
+F:\My Programs\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.exe
+F:\My Programs\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.csproj.ResolveComReference.cache
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.exe
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountSys.mdf
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountSys_log.ldf
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountingSystem.exe
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountingSystem.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\BLL.dll
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\DAL.dll
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\BLL.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\DAL.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_AddAccount.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BalanceAlertSetting.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BillCheck.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetAdd.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetManage.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetUP.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_Chart.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_Class.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_UPAccount.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Control_AccInOut.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Control_AccOutClass.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Login.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.MainForm.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Add.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Index.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Show.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Update.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Tools_InOut.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Tools_Interest.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.User_UPName.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.User_UPPsd.resources
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountingSystem.exe.config
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.csproj.ResolveComReference.cache
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.exe
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountSys.mdf
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountSys_log.ldf
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountingSystem.exe
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\AccountingSystem.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\BLL.dll
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\DAL.dll
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\BLL.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\bin\Debug\DAL.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_AddAccount.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BalanceAlertSetting.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BillCheck.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetAdd.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetManage.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_BudgetUP.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_Chart.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_Class.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Account_UPAccount.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Control_AccInOut.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Control_AccOutClass.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Login.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.MainForm.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Add.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Index.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Show.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Remind_Update.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Tools_InOut.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.Tools_Interest.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.User_UPName.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.User_UPPsd.resources
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\AccountingSystem\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache

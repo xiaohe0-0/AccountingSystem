@@ -1,0 +1,14 @@
+F:\My Programs\Graduation Design\AccountingSystem\DAL\bin\Debug\DAL.dll
+F:\My Programs\Graduation Design\AccountingSystem\DAL\bin\Debug\DAL.pdb
+F:\My Programs\Graduation Design\AccountingSystem\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\My Programs\Graduation Design\AccountingSystem\DAL\obj\Debug\DAL.dll
+F:\My Programs\Graduation Design\AccountingSystem\DAL\obj\Debug\DAL.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\bin\Debug\DAL.dll
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\bin\Debug\DAL.pdb
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\obj\Debug\DAL.dll
+F:\My Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\obj\Debug\DAL.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\bin\Debug\DAL.dll
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\bin\Debug\DAL.pdb
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\obj\Debug\DAL.dll
+D:\MyPrograms\Coding Programs\C#\Graduation Design\AccountingSystem - final V2\DAL\obj\Debug\DAL.pdb
